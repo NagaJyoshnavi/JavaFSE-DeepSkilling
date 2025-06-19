@@ -1,7 +1,11 @@
 Exercise 1: Implementing the Singleton Pattern
+
 Scenario: 
+
 You need to ensure that a logging utility class in your application has only one instance throughout the application lifecycle to ensure consistent logging.
+
 Steps:
+
 1.	Create a New Java Project:
     Create a new Java project named SingletonPatternExample.
 2.	Define a Singleton Class:
