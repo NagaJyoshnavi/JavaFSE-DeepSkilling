@@ -18,4 +18,4 @@ Steps:
 
 Output:
 
-![Screenshot 2025-06-19 115639](https://github.com/user-attachments/assets/78138a46-d8c6-4b1c-bed6-14549c282eae)
+![Screenshot 2025-06-19 170814](https://github.com/user-attachments/assets/67376f8f-d91a-4922-bea8-2bc99f36d0a7)
